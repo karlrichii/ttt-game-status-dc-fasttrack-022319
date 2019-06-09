@@ -21,8 +21,8 @@ position_1 = board[0,1,2]
 position_2 = board[3,4,5]
 position_3 = board[6,7,8]
 position_4 = board[0,3,6]
-position_5 = board
-position_6 =
+position_5 = board[1,4,7]
+position_6 = board
 position_7 =
 position_8 =
 
