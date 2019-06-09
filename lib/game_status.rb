@@ -20,4 +20,9 @@ win_index_8 = win_combination[7]
 position_1 = 
 position_1 =
 position_1 =
+position_1 =
+
+
+
+
 
