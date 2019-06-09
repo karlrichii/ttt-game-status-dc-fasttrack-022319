@@ -9,6 +9,9 @@ end
 
 # won Method
 
+def won?(board)
+  
+
 win_index_1 = win_combination[0]
 win_index_2 = win_combination[1]
 win_index_3 = win_combination[2]
@@ -26,4 +29,6 @@ position_5 = board[1,4,7]
 position_6 = board[2,5,8]
 position_7 = board[6,4,2]
 position_8 = board[0,4,8]
+
+end
 
