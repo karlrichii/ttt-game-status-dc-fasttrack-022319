@@ -19,8 +19,8 @@ win_index_8 = win_combination[7]
 
 position_1 = board[0,1,2]
 position_2 = board[3,4,5]
-position_3 =
-position_4 =
+position_3 = board[6,7,8]
+position_4 = board
 position_5 =
 position_6 =
 position_7 =
